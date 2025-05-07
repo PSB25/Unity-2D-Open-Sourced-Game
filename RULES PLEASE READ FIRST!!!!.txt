@@ -1,0 +1,9 @@
+Hello, and welcome to my game called, "Hyperball".
+
+The goal of the game is simple. How long can you have the Ball bounce without it leaving the square (stopwatch is recommended).
+
+Should the player fail to keep the ball in the square, they are forced to retry from the start.
+
+To get it up and running is simple. All you have to do is open it thrugh Unity and select Build and Run.
+
+I hope everyone enjoys this simple game, but I should mention that the ball moves pretty fast!!
